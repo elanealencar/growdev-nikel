@@ -4,21 +4,18 @@ Um projeto simples de controle de finanças pessoais desenvolvido com **HTML**, 
 
 ## 📸 Demonstração
 
-Tela de Login:
--
-<img src="public/assets/images/nikel_index.png" width="600" alt="Tela de Login">
+### Tela de Login:
+- <img src="public/assets/images/nikel_index.png" width="600" alt="Tela de Login">
 
-Tela Home:
--
-<img src="public/assets/images/nikel_home.png" width="600" alt="Tela Home">
+### Tela Home:
+- <img src="public/assets/images/nikel_home.png" width="600" alt="Tela Home">
 
-Modal de adicionar transações:
--
-<img src="public/assets/images/nikel_modal.png" width="600" alt="Tela de adicionar transações">
+### Modal de adicionar transações:
+- <img src="public/assets/images/nikel_modal.png" width="600" alt="Tela de adicionar transações">
 
 
 ---
-Visualize aqui o projeto:
+### Visualize aqui o projeto:
 
 [Projeto Nikel](https://growdev-nikel.vercel.app/)
 

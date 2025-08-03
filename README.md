@@ -4,21 +4,32 @@ Um projeto simples de controle de finanças pessoais desenvolvido com **HTML**, 
 
 ## 📸 Demonstração
 
-<img src="public/assets/images/nikel_index.png" width="400" alt="Tela de Login">
-<img src="public/assets/images/nikel_home.png" width="400" alt="Tela Home">
-<img src="public/assets/images/nikel_modal.png" width="400" alt="Tela de adicionar transações">
+Tela de Login:
+<img src="public/assets/images/nikel_index.png" width="600" alt="Tela de Login">
+
+Tela Home:
+<img src="public/assets/images/nikel_home.png" width="600" alt="Tela Home">
+
+Modal de adicionar transações:
+<img src="public/assets/images/nikel_modal.png" width="600" alt="Tela de adicionar transações">
+
+
+---
+Visualize aqui o projeto:
+
+[Projeto Nikel](https://growdev-nikel.vercel.app/)
 
 ---
 
 ## 🚀 Funcionalidades
 
-- ✅ Cadastro de transações (entrada e saída)
-- ✅ Listagem de transações em uma tabela
-- ✅ Cálculo automático de saldo total
-- ✅ Tooltip no botão flutuante para adicionar transações
-- ✅ Armazenamento local usando `localStorage`
-- ✅ Validação de dados no formulário
-- ✅ Design responsivo com Bootstrap 5
+✅ Cadastro de transações (entrada e saída)
+✅ Listagem de transações em uma tabela
+✅ Cálculo automático de saldo total
+✅ Tooltip no botão flutuante para adicionar transações
+✅ Armazenamento local usando `localStorage`
+✅ Validação de dados no formulário
+✅ Design responsivo com Bootstrap
 
 ---
 
@@ -72,13 +83,14 @@ Transações: permite visualizar todas as transações
 
 ### 📝 Melhorias Futuras
 
-🔒 Implementar autenticação real
-☁️ Salvar dados em um backend real (ex: Firebase ou Express)
-🗑️ Permitir excluir transações
-✏️ Permitir editar transações
+- 🔒 Implementar autenticação real
+- ☁️ Salvar dados em um backend real 
+- 🗑️ Permitir excluir transações
+- ✏️ Permitir editar transações
 
 
 ### 👩‍💻 Desenvolvedora
-Feito por Elane
+
+Feito por Elane Alencar
 
 [LinkedIn](https://www.linkedin.com/in/elanealencar/)
